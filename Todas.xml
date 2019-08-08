@@ -1,4 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+    <items_info> <!-- this is opitonal -->
+      <title>Addon Alejandria</title> <!-- a title is required, other elements are optional -->
+      <genre>News</genre>
+      <description>Addon Alejandria</description>
+      <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+      <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+      <date>04.01.2013</date>
+      <credits>Addon Alejandria</credits>
+    </items_info>
 
+	
+   
 
 <item>
 <title>Van Helsing</title>
@@ -1023,4 +1036,6 @@ https://streamango.com/embed/tapsdaccabmdbrep/(PREMIUM)</sublink>
 <fanart></fanart>
 </item>
  
+</items>
+       
 
