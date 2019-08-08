@@ -1,23 +1,1035 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<items>
-    <items_info> <!-- this is opitonal -->
-      <title>Testing XML</title> <!-- a title is required, other elements are optional -->
-      <genre>News</genre>
-      <description>this is the descripton string</description>
-      <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
-      <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
-      <date>04.01.2013</date>
-      <credits>divingmule, Johnny Cache</credits>
-    </items_info>
+<dir>
+
+     <name>[COLOR aqua][B]Addon Alejandria[/B][/COLOR]</name>
+
+     <link>Addon Alejandria</link>
+
+     <animated_thumbnail></animated_thumbnail>
+
+     <thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
+
+     <animated_fanart></animated_fanart>
+
+     <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRQ4G6GN_YKixv53UdKaua7sA2X5sHVyh9liN2xn-sGQvzSplt</fanart>
+ <item>
+<title>Van Helsing</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>Van Helsing</title>
+<year>2019</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/cesmfqmfldlaneke/(PREMIUM)</sublink>
+</link>
+<thumbnail>https://uh.gsstatic.es/sfAttachPlugin/264446.jpg</thumbnail>
+<fanart></fanart>
+</item>      
+       
+     
+<item>
+<title>300 (Trescientos)</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>300 (Trescientos)</title>
+<year>2019</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/dcpfsdpqemkmqclm/(PREMIUM)</sublink>
+</link>
+<thumbnail>https://i.pinimg.com/originals/17/43/7e/17437eec19371496cb378d743dd699fd.jpg</thumbnail>
+<fanart></fanart>
+</item>      
+   
+<item>
+<title>El renacer de los 300</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>El renacer de los 300</title>
+<year>2019</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/mnqekmrkpnapbnfa/ (PREMIUM)</sublink>
+</link>
+<thumbnail>https://www.cineforever.com/wp-content/uploads/2014/03/300-el-nacimiento-de-un-imperio.jpg</thumbnail>
+<fanart></fanart>
+</item>  
+     
+ <item>
+<title>El efecto mariposa (The Butterfly Effect)</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>El efecto mariposa (The Butterfly Effect)</title>
+<year>2019</year>
+</meta>
+<link>
+<sublink>https://streamango.com/f/kbmepnsktqfktadc/(HD VERSION)</sublink>
+</link>
+<thumbnail>https://i.pinimg.com/originals/e0/38/20/e03820992fe356e2c8fdeb0fe8d98eb0.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+    
+<item>
+<title>Kick Ass</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>Kick Ass</title>
+<year>2019</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/bosknmdasrattqdk/(PREMIUM)</sublink>
+</link>
+<thumbnail>https://dyn.media.titanbooks.com/RT8ipwhPyu-GPXq8Oow2widlybE=/fit-in/600x600/https://media.titanbooks.com/catalog/products/kickass0.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+     
+<item>
+<title>Kick Ass 2</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>Kick Ass 2</title>
+<year>2019</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/rnrlqtodaslqsqob/(PREMIUM)</sublink>
+</link>
+<thumbnail>https://www.vivanicaragua.com.ni/contenido/archivos/2017/11/kick-ass-2.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+     
+<item>
+<title>Batman Begins</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>Batman Begins</title>
+<year>2019</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/ltmcbcabsresprnl/(PREMIUM)</sublink>
+</link>
+<thumbnail>https://s1.thcdn.com/productimg/1600/1600/11809562-1964606913694678.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+     
+<item>
+<title>El caballero oscuro</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>El caballero oscuro</title>
+<year>2019</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/pfpqmbafdkaobqcc/(PREMIUM)</sublink>
+</link>
+<thumbnail>https://i.blogs.es/75d576/elcaballerooscuro1/1366_2000.jpg</thumbnail>
+<fanart></fanart>
+</item>  
+          
+<item>
+<title>El caballero oscuro:La leyenda renace</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>El caballero oscuro:La leyenda renace</title>
+<year>2019</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/coaqrkbeoerasfom/(PREMIUM)</sublink>
+</link>
+<thumbnail>https://www.psicocine.com/wp-content/uploads/2012/07/el-caballero-oscuro-3-poster.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+     
+     
+<item>
+<title>Jumanji: Bienvenidos A La Jungla</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>Jumanji: Bienvenidos A La Jungla</title>
+<year>2019</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/fllldnsrknpockmr/(PREMIUM)</sublink>
+</link>
+<thumbnail>https://imagessl0.casadellibro.com/m/ig/0/6218580.jpg</thumbnail>
+<fanart></fanart>
+</item>    
+ 
+<item>
+<title>El Rascacielos</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>El Rascacielos</title>
+<year>2019</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/apnepskdpaddrdpr/(PREMIUM)</sublink>
+</link>
+<thumbnail>https://imagessl3.casadellibro.com/m/ig/3/7081903.jpg</thumbnail>
+<fanart></fanart>
+</item>    
+     
+<item>
+<title>Eliminado: Dark Web</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>Eliminado: Dark Web</title>
+<year>2019</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/oqnttnetoefpeoqr/(PREMIUM)</sublink>
+</link>
+<thumbnail>https://imagessl4.casadellibro.com/m/ig/4/8997454.jpg</thumbnail>
+<fanart></fanart>
+</item>    
+     
+<item>
+<title>Los Vengadores</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>Los Vengadores</title>
+<year>2006</year>
+</meta>
+<link>
+<sublink>https://streamango.com/f/dmmqeqpblelooatq/(PREMIUM)</sublink>
+</link>
+<thumbnail>https://vignette.wikia.nocookie.net/doblaje/images/6/61/LosVengadores.jpg/revision/latest?cb=20170808001817&path-prefix=es</thumbnail>
+<fanart></fanart>
+</item>
+     
+<item>
+<title>Los Vengadores Infinity War</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>Los Vengadores Infinity War</title>
+<year>2006</year>
+</meta>
+<link>
+<sublink>https://sheepberry.fruithosted.net/dl/n/fZN33N8Kg1Ak_LUE/cqeddnedkslolsqt/6gUgX3PR_--lCsvc7ykeKFslytw7uvot4Z1HdiNXz6NVeRdH0dtT7DloY4yfITfM9iPTmTZUbFa9dNlvCLFgBX3ghVawgTfCY-i-BkhoI8K8Dpx86l0QgZD0YPcX778dZnbI8WG8sOvXfB8o9khwsDbV6bkdl1gkqwTdhV7f849mPq78zdRze2TyC0oA8w0LB5JtGx1FurgWPRgNQctWokYy_kp-6ra28M1RrfLNL9BfSBXe7v8ijZ-_i8l5vTUUZ8afw5moEIoQa2EPsAWm7kk8dNB3Z_RfP8RG2pUhm9jO-YeaSz5kgfbHSuvmH0EsMqDd0jkhoNJytC5lnUD4vgrlNCv05kFxXhsRAXPuEHfrKl1kIh9HEaFDw91we22lPgqwQA10wDeTnov83F7N2Wd__2o3XgRRtYXnRjWOfcw4iG4nAFheWwF4MifoPBQI/95539de1-860e-11e9-ad24-9d29f06a9a23.mp4(PREMIUM)</sublink>
+</link>
+<thumbnail>https://imagessl8.casadellibro.com/m/ig/8/6444728.jpg</thumbnail>
+<fanart></fanart>
+</item>
+     
+<item>
+<title>Los Vengadores La Era de Ultron</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>Los Vengadores La Era de Ultron</title>
+<year>2006</year>
+</meta>
+<link>
+<sublink>https://storage.googleapis.com/skilled-bee-239905-6.appspot.com/654987234%2Fda2697df801d381995cb0929b51e7cd41a57d61f6f690f54ab83049abfdf0450-k9lWXg4xw8Wwhdy4GXTn.mp4?GoogleAccessId=uploader@skilled-bee-239905-6.iam.gserviceaccount.com&Expires=1564812308&Signature=hxkBfI67ElUXX65PR5MCJBR6yoZM4WFIlJFwMg8%2B9XkvdbaIMLDfktr44I15saqgCcx92l18TSLHHqRg2uh%2B5knHuDaZ21Vj2TU%2FrKOkfwSF3nWNStXJBd%2Fjkwrv0Rk9USQNoKDPepd6YLmU%2BsU8BCrZxFfgBeNh59eSIhmFcyCEPQBAGDhlIofDiZrMxIULDneR4ItovqwYWqeNFDZCRVpaGbQ0rCjVvlygMp2CPB%2Fp%2FIe7GqNuKS8%2Br89c988uUvE3zeGfqJcqTDauye44z7f9gZEOHh0cXxYbuSYX7cPDPtHJrNdUc6wlfLr51K7SfUUoVWWDY5OZNvCZW%2Bcliw%3D%3D(PREMIUM)</sublink>
+</link>
+<thumbnail>http://es.web.img3.acsta.net/r_1280_720/pictures/18/05/08/23/50/2083483.jpg</thumbnail>
+<fanart></fanart>
+</item>
+     
+<item>
+<title>Los Vengadores End Game</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>Los Vengadores End Game</title>
+<year>2006</year>
+</meta>
+<link>
+<sublink>https://verystream.com/gettoken/gArUQ2tk9Ef~1564869944~78.30.0.0~7J5y_86K?mime=true(PREMIUM)</sublink>
+</link>
+<thumbnail>https://stripmarvel.com/cop/wp-content/uploads/2019/03/avengers-endgame_ud6slu.jpg</thumbnail>
+<fanart></fanart>
+</item>
+     
+<item>
+<title>Arma Letal</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>Arma Letal</title>
+<year>2006</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/rlbokqbkramoqdpl/(PREMIUM)</sublink>
+</link>
+<thumbnail>https://static.pelisplus.co/movie/cover/original/c110e96571f4d992bb6213206b35052b.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Arma Letal 2</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>Arma Letal 2</title>
+<year>2006</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/sqkepottlbtcnltc/(PREMIUM)</sublink>
+</link>
+<thumbnail>http://es.web.img3.acsta.net/c_215_290/pictures/14/03/05/10/10/478427.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Arma Letal 3</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>Arma Letal 3</title>
+<year>2006</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/mbsolaqmntaktnep/(PREMIUM)</sublink>
+</link>
+<thumbnail>http://4.bp.blogspot.com/-CMA7na9FLTM/TsqHARfhX4I/AAAAAAAAAWE/aaiYhiRQIpo/s1600/0152+Arma+letal+3.jpg</thumbnail>
+<fanart></fanart>
+</item>
 
 
-  <item>
-        <title>El Professional: El Leon</title>         
-        <link>https://streamango.com/embed/tapsdaccabmdbrep/</link>
-        <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpRLTvvet7cQWyrYHmUkuJ_qlOLJzidW9dSQaIZ6g8N_EbJQOF</thumbnail>
-		<genre>Accion</genre>
-        <info>Mathilda es una niña que no se lleva bien con su familia, excepto con su hermano pequeño. Su padre es un narcotraficante que hace negocios con Stan, un corrupto agente de la D.E.A. Un día Stan mata a su familia y Mathilda se refugia en casa de Léon, un solitario y misterioso vecino que resulta ser un asesino a sueldo, pero hará un pacto con él: ella se encargará de las tareas domésticas y le enseñará a leer a Léon y éste le enseñará a disparar para poder vengarse de la muerte de su hermano..</info>
-        <date>06.04.1995</date>  <!-- format - dd.mm.yyyy -->
-        <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-        <fanart></fanart>
-</items>
+<item>
+<title>Arma Letal 4</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>Arma Letal 4</title>
+<year>2006</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/dcmsbapnedtmrsse/(PREMIUM)</sublink>
+</link>
+<thumbnail>https://promociones.diariovasco.com/1476-thickbox_default/r.jpg</thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Jungla de cristal</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>Jungla de cristal</title>
+<year>2006</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/adasodtpfcdrbmml/(PREMIUM)</sublink>
+</link>
+<thumbnail>http://blog.franlopez.es/wp-content/uploads/2008/12/diehard.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Jungla de cristal 2</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>Jungla de cristal 2</title>
+<year>2006</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/mnlcckbafmpattaq/(PREMIUM)</sublink>
+</link>
+<thumbnail>https://vignette.wikia.nocookie.net/lajungla/images/0/07/La_jungla_2.jpg/revision/latest?cb=20130202163124&path-prefix=es</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Jungla de cristal 3</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>Jungla de cristal 3</title>
+<year>2006</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/tooemeldmkqbqllq/(PREMIUM)</sublink>
+</link>
+<thumbnail>https://img.tviso.com/ES/poster/w430/04/3b/043b9a78b5f7793fe37b3feab6f91b24.jpg</thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>A Todo Gas: Tokyo Race</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>A Todo Gas: Tokyo Race</title>
+<year>2006</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/qlmstnbdplcbbmdc/(PREMIUM)</sublink>
+</link>
+<thumbnail>https://cdn1.megadede.com/cdn/media/peli/3/6/0/2-medium.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Yamakasi</title>
+<meta>
+<content>movie</content>
+<imdb>tt0267129</imdb>
+<title>Yamakasi</title>
+<year>2001</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/onatpbcnnpnprksp/(PREMIUM)</sublink>
+</link>
+<thumbnail>https://cdn6.megadede.com/cdn/media/peli/2/6/5/7-medium.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Dumbo</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>Dumbo</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>https://clipwatching.com/4lqe3b4e1xvj.html(PREMIUM)</sublink>
+</link>
+<thumbnail>https://www.repelis.biz/movies/static/img/w342//A7XkpLfNH0El2yyDLc4b0KLAKvE.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Ha Nacido Una Estrella</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>Ha Nacido Una Estrella</title>
+<year>2019</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/roeefnlflqsqmces/(PREMIUM)</sublink>
+</link>
+<thumbnail>http://es.web.img2.acsta.net/c_215_290/pictures/18/06/06/18/04/4900439.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Capitana Marvel</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>Capitana Marvel</title>
+<year>2019</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/tkmlooamanmtonea/(PREMIUM)</sublink>
+</link>
+<thumbnail>https://is4-ssl.mzstatic.com/image/thumb/Video113/v4/81/6f/4f/816f4fdd-1f0f-b668-ed55-cd4fa7623d6b/contsched.gsrjxzvm.lsr/268x0w.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Noche De juegos</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>Noche De Juegos</title>
+<year>2019</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/nqdldofdmlebqdol/(PREMIUM)</sublink>
+</link>
+<thumbnail>https://cloud10.todocoleccion.online/cine-posters-carteles/tc/2018/03/26/22/116385623.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>La Forma Del Agua</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>La Forma Del Agua</title>
+<year>2018</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/tdatoccbladmeqfc/(PREMIUM)</sublink>
+</link>
+<thumbnail>https://www.lahiguera.net/cinemania/pelicula/8185/la_forma_del_agua-cartel-7891.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Glass</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>Glass</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/tdescnnrmlsbepod/(PREMIUM)</sublink>
+</link>
+<thumbnail>http://maharky.com/wp-content/uploads/2019/02/4483-12477-Glass.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Gladiator</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>Gladiator</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/fceefeknfdqfbloq/(Premium)</sublink>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>
+<thumbnail>http://cineblog.net/wp-content/uploads/GLADIATOR-Ridley-Scott-2000-Gladiator.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Alpha</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>Alpha</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/sfsanecmnmeekrmc/(HD VERSION)</sublink>
+<sublink>https://streamango.com/embed/fmcfksmelkcbpfos/ (PREMIUM)</sublink>
+<sublink>searchsd</sublink>
+</link>
+<thumbnail>https://i.pinimg.com/originals/58/69/75/5869753c9c41da5c516ca8bdac024cf2.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Juego De Ladrones</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>Juego De Ladrones</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/osfmcfqrfksbdcdl/(Premium)</sublink>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>
+<thumbnail>https://cloud10.todocoleccion.online/cine-guias-peliculas/tc/2018/10/29/11/137971030.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Megalodon</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>Megalodon</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/bclrnpomcbqkkpop/(Premium)</sublink>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>
+<thumbnail>https://imagessl0.casadellibro.com/m/ig/0/7013910.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Accident Man</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>Accident Man</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/fmcfksmelkcbpfos/(Premium)</sublink>
+<sublink>https://streamango.com/embed/aadqsfaqtkbbsefc/(HD VERSION)<sublink>
+<sublink>searchsd</sublink>
+</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Accident_Man_film_poster.jpg/220px-Accident_Man_film_poster.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>BraveHeart</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>BraveHeart </title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/ooqmbdalcqbpstan/(Premium)</sublink>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Venganza</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>Venganza </title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/clffkbpnfctlomas/(Premium)</sublink>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>
+<thumbnail>https://i.pinimg.com/originals/d3/ba/e6/d3bae6fe5fd182ab263fd211dbefccd7.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Venganza 2</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>V3nganza 2</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/claqnfcssnmqdrma/(Premium)</sublink>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>
+<thumbnail>http://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/92/27/27/20190051.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Venganza 3</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>V3nganza 3</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/ktbpdqsftkntnecs/(Premium)</sublink>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>
+<thumbnail>http://2.bp.blogspot.com/-K-FTN3wGy58/VRHAaCL7gNI/AAAAAAAAQaI/i-1yD3sFFcI/s1600/VENGANZA1.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Point Break</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>Point Break </title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/lblsmsfqelkbsome/(Premium)</sublink>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>
+<thumbnail>http://es.web.img3.acsta.net/c_215_290/pictures/15/12/02/11/13/319712.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Milla</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>Milla </title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/kmnemoqnqttlfcbt/(Premium)</sublink>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>
+<thumbnail>https://resizing.flixster.com/ofKxmIsAfijZDSddFbnjaalrOFE=/206x305/v1.bTsxMjgwMzU5NztqOzE4MTQ4OzEyMDA7MjEwMDszMTUw</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Sicario El Día Del Soldado</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>Sicario El Día Del Soldado </title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/mdotqkbqkepqksdb/(Premium)</sublink>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>
+<thumbnail>https://nomixto.xyz/wp-content/uploads/bfi_thumb/Sicario-El-d%C3%ADa-del-soldado-2018-3838ya12kqcfc37j3yvfuo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Ocean's 8</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>Ocean's 8</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/qlntrbopcssnarcp/(Premium)</sublink>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>
+<thumbnail>http://s3-us-west-2.amazonaws.com/s3.laprensa.com.ni-bq/wp-content/uploads/2018/01/02100924/oceans-8-poster.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Misión Imposible FallOut</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>Misión Imposible FallOut</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/pkskrbtqeolafdet/(Premium)</sublink>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>
+<thumbnail>https://i.pinimg.com/originals/f1/30/be/f130be114b03198130175d8520f1108f.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Tren A París </title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>Tren A París</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/mtkseomffdtdlpna/(Premium)</sublink>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>
+<thumbnail>http://imagessl2.casadellibro.com/m/ig/2/6309522.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Gorrión Rojo </title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>Gorrión Rojo</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/fcmtorpelpdstqsc/(Premium)</sublink>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>
+<thumbnail>https://www.aytoreinosa.es/wp-content/uploads/2018/03/2319558.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Mandy </title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>Mandy</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/maalrnfmpddtssff/(Premium)</sublink>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>
+<thumbnail>https://fotos.subefotos.com/ee83b0f1e5a9d177cfae18722b12bffco.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>El Justiciero </title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>El Justiciero</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/rqltlmkmtemlobmn/(Premium)</sublink>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>
+<thumbnail>https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/peliculas/el-justiciero/137864560-4-esl-ES/El-justiciero.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Gringo </title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>Gringo</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/tfsrspddskptsbsb/(Premium)</sublink>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>
+<thumbnail>https://prohdlatino.com/wp-content/uploads/2019/04/Gringo-DUAL-LaCoverlistooki.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Game Over </title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>Game Over</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/lmpsanprfrfpsebd/(Premium)</sublink>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>
+<thumbnail>https://occ-0-999-1001.1.nflxso.net/art/338dc/4e09eeb291a5a5ca5fc5b1440232e492631338dc.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>El Rehén</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>El Rehén</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/osknackdkmensfal/(Premium)</sublink>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BN2M4NjNlZmYtZTA5Ny00MWZjLTg4ZTMtM2RiODc5NjhkNTBlXkEyXkFqcGdeQXVyNjI0MTA1MTM@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Venom</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>Venom</title>
+<year>2018</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/rclotkpefpkpsmmp/(PREMIUM)</sublink>
+</link>
+<thumbnail>https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/2b/86/59/2b8659f9-9d81-9162-0486-eb96ca68b234/contsched.aebhothp.jpg/268x0w.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Jurassic World 2</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>Jurassic World 2</title>
+<year>2019</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/altknqfddfebfmpc/(PREMIUM)</sublink>
+</link>
+<thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcTvJIUF8SZ-F78g131t1f22wHKfE_CCdy4ESu0WyYmXSvEqUJ14</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Blade Runner</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>Blade Runner</title>
+<year>2019</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/enmadmmbrlsbrddq/(PREMIUM)</sublink>
+</link>
+<thumbnail>http://www.elche.es/wp-content/uploads/2018/01/blade.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Al Filo Del Mañana</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>Al Filo Del Mañana</title>
+<year>2019</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/mqnnsbrdbonmqqlf/(PREMIUM)</sublink>
+</link>
+<thumbnail>https://musicart.xboxlive.com/7/63640700-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Un Lugar Tranquilo </title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>Un Lugar Tranquilo</title>
+<year>2019</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/rmkomclosabkpdca/(PREMIUM)</sublink>
+</link>
+<thumbnail>https://comentamoscine.files.wordpress.com/2018/04/un-lugar-tranquilo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Aniquilación</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>Aniquilación</title>
+<year>2019</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/lomnfsocblnbfroo/(PREMIUM)</sublink>
+</link>
+<thumbnail>https://cdn.atomix.vg/wp-content/uploads/2018/03/AtomixMovies_AniquilacionAnnihilationReview.png</thumbnail>
+<fanart></fanart>
+</item>
+     
+<item>
+<title>IP MAN</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>IP MAN</title>
+<year>2019</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/nasacrnasoooebbs/(PREMIUM)</sublink>
+</link>
+<thumbnail>https://vignette.wikia.nocookie.net/doblaje/images/0/00/MPW-69435.jpg/revision/latest?cb=20180220182952&path-prefix=es</thumbnail>
+<fanart></fanart>
+</item>
+
+<item> 
+<title>IP MAN 2</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>IP MAN 2</title>
+<year>2019</year>
+</meta>
+<link>
+<sublink>https://s30.clipwatching.com/zx5x2skcjv2txcne4zdsxa7a2jafuquvxagwi65gpz4pm4cvm7ahpb6ofbua/v.mp4(PREMIUM)</sublink>
+</link>
+<thumbnail>https://musicart.xboxlive.com/7/cbdf1000-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080</thumbnail>
+<fanart></fanart>
+</item>
+     
+<item> 
+<title>IP MAN 3</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>IP MAN 3</title>
+<year>2019</year>
+</meta>
+<link>
+<sublink>https://streamango.com/embed/amqamtosbsaetsoc/(PREMIUM)</sublink>
+</link>
+<thumbnail>https://1.bp.blogspot.com/-XkpvMVulZ8I/VzczwxZMrrI/AAAAAAAALJI/qBolssfD-04ob1odaBjFuVZCnajzreLSgCLcB/s1600/ip%2Bman%2B3.jpg</thumbnail>
+<fanart></fanart>
+</item>
+     
+<item> 
+<title>FIGHTER IN THE WIND</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>FIGHTER IN THE WIND</title>
+<year>2019</year>
+</meta>
+<link>
+<sublink>    
+https://streamango.com/embed/bleakpbptablmrad/(PREMIUM)</sublink>
+</link>
+<thumbnail>https://img.tviso.com/ES/poster/w430/74/4d/744d3256bca3d81038a4ffc398712cc2.jpg</thumbnail>
+<fanart></fanart>
+</item>
+     
+<item>
+<title>CONTACTO SANGRIENTO</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>CONTACTO SANGRIENTO</title>
+<year>2019</year>
+</meta>
+<link>
+<sublink>      
+https://fox-grape.fruithosted.net/dl/n/emcOzcG4BNNgrLz9/scnpeftaqoakbqmr/7Jm8F_9Bq8C3kH7rkkNiSZ4MSh7vyJRwhKSD-LioFu_nYCygqOnLX_OG6lQjGxoLM3-HTdpN_1HEpI3axPF-KqY6DlaZUYlyH9dGcRiQf_e06xaHMViywZncn2JkrPgPGMdY7HdRGK4h0RvLYjavHjHiPoxCzLUWnW_wYF0dL6RkLCh1a7fr4xvjGdqVuSaf0B_TnqpRXVB0zKRHLC1_C3JeJi8jyui-22BgxTgfWb4C_Lt7nDSbb6ftbcNJMPc3QKPPRL-jwqC1m6SeBfx1kvymE5gU4jUZeB4tuAh3gN3dDyu71Mw1LwtAjDFVi6EPQQWGnC-CwvZDvwxLIhh6NxDWpHx5oNo5SZKr72rVFyBhd8NFqeWJuKLsVlCctxo5LJ6g-8iDQrxnyy0WL0QVxNggdgWrC8EqT96PKWXB0I_zgL3PHTOc0wWYMbRpZYNRFSv4XfOODQNjnsYYhWek_A/Contacto+sangriento+%281988%29+%5Bwww.123Pelis.FUN%5D.mp4(PREMIUM)</sublink>
+</link>
+<thumbnail>https://nomixto.xyz/wp-content/uploads/bfi_thumb/Contacto_Sangriento-37d7qiuaqqpgwilv3og1kw.jpg</thumbnail>
+<fanart></fanart>
+</item>
+     
+<item>
+<title>KICKBOXER</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>KICKBOXER</title>
+<year>2019</year>
+</meta>
+<link>
+<sublink>      
+https://streamango.com/embed/pntadklmssttofer/(PREMIUM)</sublink>
+</link>
+<thumbnail>https://starzplay-img-prod-ssl.akamaized.net/474w/Lionsgate/KICKBOXERY1989M/KICKBOXERY1989M-474x677-PST.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+     
+<item>
+<title>EL PROFESIONAL: EL LEON</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>EL PROFESIONAL: EL LEON</title>
+<year>2019</year>
+</meta>
+<link>
+<sublink>      
+https://streamango.com/embed/tapsdaccabmdbrep/(PREMIUM)</sublink>
+</link>
+<thumbnail>http://1.bp.blogspot.com/-b3ztDnImeUE/UdNwT2iWRnI/AAAAAAAADhE/jW6Mvpoacb0/s1600/el_profesional_leon.jpg</thumbnail>
+<fanart></fanart>
+</item>
