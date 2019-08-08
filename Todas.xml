@@ -1,1 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+    <items_info> <!-- this is opitonal -->
+      <title>Testing XML</title> <!-- a title is required, other elements are optional -->
+      <genre>News</genre>
+      <description>this is the descripton string</description>
+      <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+      <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+      <date>04.01.2013</date>
+      <credits>divingmule, Johnny Cache</credits>
+    </items_info>
 
+
+  <item>
+        <title>El Professional: El Leon</title>         
+        <link>https://streamango.com/embed/tapsdaccabmdbrep/</link>
+        <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpRLTvvet7cQWyrYHmUkuJ_qlOLJzidW9dSQaIZ6g8N_EbJQOF</thumbnail>
+		<genre>Accion</genre>
+        <info>Mathilda es una niña que no se lleva bien con su familia, excepto con su hermano pequeño. Su padre es un narcotraficante que hace negocios con Stan, un corrupto agente de la D.E.A. Un día Stan mata a su familia y Mathilda se refugia en casa de Léon, un solitario y misterioso vecino que resulta ser un asesino a sueldo, pero hará un pacto con él: ella se encargará de las tareas domésticas y le enseñará a leer a Léon y éste le enseñará a disparar para poder vengarse de la muerte de su hermano..</info>
+        <date>06.04.1995</date>  <!-- format - dd.mm.yyyy -->
+        <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
+        <fanart></fanart>
+</items>
