@@ -1,18 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<items>
-    <items_info> <!-- this is opitonal -->
-      <title>Addon Alejandria</title> <!-- a title is required, other elements are optional -->
-      <description>>Addon Alejandria</description>
-      <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
-      <fanart></fanart>
-      <date></date>
-      <credits>By JMX y el But Developers</credits>
- 
-	
-	</items_info>
-	
-   
-<item>
+     
+ <item>
 <title>Van Helsing</title>
 <meta>
 <content>movie</content>
@@ -1034,9 +1021,6 @@ https://streamango.com/embed/tapsdaccabmdbrep/(PREMIUM)</sublink>
 <thumbnail>http://1.bp.blogspot.com/-b3ztDnImeUE/UdNwT2iWRnI/AAAAAAAADhE/jW6Mvpoacb0/s1600/el_profesional_leon.jpg</thumbnail>
 <fanart></fanart>
 </item>
-	
-	
-	</items>
 
      
   
