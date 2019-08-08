@@ -9,18 +9,6 @@
       <date>04.01.2013</date>
       <credits>Addon Alejandria</credits>
     </items_info>
-
-	
-    <item>
-        <title>Todas las peliculas</title>         
-        <link>http:>//ignoreme</link>
-        <externallink>https://raw.githubusercontent.com/AddonAlejandria/Movies/master/Todas.xml</externallink>
-	<genre>Accion</genre>
-        <info></info>
-        <date></date> 
-        <epg></epg> 
-        <fanart></fanart>
-	</item>
 	
 	<item>
         <title>Van Helsing</title>         
@@ -32,4 +20,5 @@
         <epg></epg> 
         <fanart></fanart>
 	</item>
+		
 </items>
