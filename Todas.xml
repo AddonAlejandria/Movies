@@ -20,4 +20,16 @@
         <date></date> 
         <epg></epg> 
         <fanart></fanart>
+	</item>
+	
+	<item>
+        <title>Van Helsing</title>         
+        <link>http:>//ignoreme</link>
+        <externallink>https://streamango.com/embed/cesmfqmfldlaneke/</externallink>
+	<genre>Accion</genre>
+        <info></info>
+        <date></date> 
+        <epg></epg> 
+        <fanart></fanart>
+	</item>
 </items>
