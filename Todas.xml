@@ -1,21 +1,4 @@
-<SetViewMode>500</SetViewMode> 
-<dir>
 
-     <name>[COLOR aqua][B]Todas las peliculas[/B][/COLOR]</name>
-
-     <link>Addon</link>
-
-     <animated_thumbnail></animated_thumbnail>
-
-     <thumbnail></thumbnail>
-
-     <animated_fanart></animated_fanart>
-
-     <fanart></fanart>
-
-</dir>
-
-<items>
 
 <item>
 <title>Van Helsing</title>
@@ -1040,5 +1023,4 @@ https://streamango.com/embed/tapsdaccabmdbrep/(PREMIUM)</sublink>
 <fanart></fanart>
 </item>
  
-</items>    
-  
+
