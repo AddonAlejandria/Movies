@@ -1,3 +1,31 @@
+<SetViewMode>500</SetViewMode> 
+<dir>
+
+     <name>[COLOR aqua][B]Todas las peliculas[/B][/COLOR]</name>
+
+     <link>Addon</link>
+
+     <animated_thumbnail></animated_thumbnail>
+
+     <thumbnail></thumbnail>
+
+     <animated_fanart></animated_fanart>
+
+     <fanart></fanart>
+
+</dir>
+
+  <item>
+        <title>Todas las peliculas</title>      
+	<link>http://ignoreme</link>
+        <externallink>https://raw.githubusercontent.com/AddonAlejandria/Movies/master/Todas.xml</externallink>
+        <thumbnail></thumbnail>
+        <info></info>
+        <date></date>  <!-- format - dd.mm.yyyy -->
+        <fanart></fanart>
+  </item>
+
+
 <item>
 <title>Van Helsing</title>
 <meta>
