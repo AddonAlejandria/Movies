@@ -15,16 +15,7 @@
 
 </dir>
 
-  <item>
-        <title>Todas las peliculas</title>      
-	<link>http://ignoreme</link>
-        <externallink>https://raw.githubusercontent.com/AddonAlejandria/Movies/master/Todas.xml</externallink>
-        <thumbnail></thumbnail>
-        <info></info>
-        <date></date>  <!-- format - dd.mm.yyyy -->
-        <fanart></fanart>
-  </item>
-
+<items>
 
 <item>
 <title>Van Helsing</title>
@@ -1049,5 +1040,5 @@ https://streamango.com/embed/tapsdaccabmdbrep/(PREMIUM)</sublink>
 <fanart></fanart>
 </item>
  
-     
+</items>    
   
