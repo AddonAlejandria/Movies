@@ -1,25 +1,26 @@
-<items>
-    <items_info> <!-- this is opitonal -->
-      <title>Addon Alejandria</title> <!-- a title is required, other elements are optional -->
-      <genre>News</genre>
-      <description>Addon Alejandria</description>
-      <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
-      <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
-      <date>04.01.2013</date>
-      <credits>Addon Alejandria</credits>
-    </items_info>
+<item>  
 
-	
-    <item>
-        <title>Van Helsing</title>         
-        <link>https://streamango.com/embed/cesmfqmfldlaneke/</link>
-        <externallink></externallink>
-	<genre>Accion</genre>
-        <info></info>
-        <date></date> 
-        <epg></epg> 
-        <fanart></fanart>
-</items>
+ <title>[COLOR aqua]Addon Alejandria[/COLOR]</title> 
+
+<urlsolve></urlsolve>
+
+<thumbnail>https://alejandria.academy/wp-content/uploads/2018/09/siteIcon.png</thumbnail>
+
+<fanart>https://newevolutiondesigns.com/images/freebies/futuristic-city-wallpaper-6.jpg</fanart>
+
+ </item>
+
+<item>  
+
+	 <title>Van Helsing</title> 
+
+<urlsolve>https://streamango.com/embed/cesmfqmfldlaneke/</urlsolve>
+
+<thumbnail>https://uh.gsstatic.es/sfAttachPlugin/264446.jpg</thumbnail>
+
+<fanart></fanart>
+
+ </item>
 
 	
 	
